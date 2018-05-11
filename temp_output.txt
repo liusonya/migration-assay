@@ -1,0 +1,29 @@
+Parameters used are:
+CenterX=525
+CenterY=677
+Radius=416
+
+20180430_G1_PTX20nM-0020_DAPI.TIF	3002	543657	0.55	theshold=30 1e+02	theshold=50 12	theshold=90 1.5	
+20180430_G1_PTX20nM-0020_GFP.TIF	273	543657	0.05	theshold=30 8.1	theshold=50 1.4	theshold=90 0.14	
+20180430_G2_PTX10nM-0021_DAPI.TIF	3011	543657	0.55	theshold=30 1e+02	theshold=50 16	theshold=90 1.9	
+20180430_G2_PTX10nM-0021_GFP.TIF	184	543657	0.034	theshold=30 10	theshold=50 1.4	theshold=90 0.1	
+20180430_G3_TGFB2-0022_DAPI.TIF	3726	543657	0.69	theshold=30 1e+02	theshold=50 49	theshold=90 2.6	
+20180430_G3_TGFB2-0022_GFP.TIF	347	543657	0.064	theshold=30 58	theshold=50 3.6	theshold=90 0.18	
+20180430_G4_TGFB1-0023_DAPI.TIF	2965	543657	0.55	theshold=30 1e+02	theshold=50 21	theshold=90 2.2	
+20180430_G4_TGFB1-0023_GFP.TIF	24	543657	0.0044	theshold=30 12	theshold=50 1.1	theshold=90 0.028	
+20180430_G5_untreated-0024_DAPI.TIF	6861	543657	1.3	theshold=30 1e+02	theshold=50 27	theshold=90 4.2	
+20180430_G5_untreated-0024_GFP.TIF	249	543657	0.046	theshold=30 21	theshold=50 2.7	theshold=90 0.13	
+20180430_G6_stopper-0025_DAPI.TIF	812	543657	0.15	theshold=30 1e+02	theshold=50 0.95	theshold=90 0.34	
+20180430_G6_stopper-0025_GFP.TIF	2	543657	0.00037	theshold=30 0.71	theshold=50 0.094	theshold=90 0.0026	
+20180430_H1_PTX20nM-0026_DAPI.TIF	853	543657	0.16	theshold=30 1e+02	theshold=50 8.6	theshold=90 0.54	
+20180430_H1_PTX20nM-0026_GFP.TIF	220	543657	0.04	theshold=30 10	theshold=50 1.4	theshold=90 0.12	
+20180430_H2_PTX10nM-0027_DAPI.TIF	2066	543657	0.38	theshold=30 1e+02	theshold=50 15	theshold=90 1.4	
+20180430_H2_PTX10nM-0027_GFP.TIF	453	543657	0.083	theshold=30 17	theshold=50 2.9	theshold=90 0.25	
+20180430_H3_TGFB2-0028_DAPI.TIF	2520	543657	0.46	theshold=30 1e+02	theshold=50 72	theshold=90 2.3	
+20180430_H3_TGFB2-0028_GFP.TIF	394	543657	0.072	theshold=30 94	theshold=50 10	theshold=90 0.27	
+20180430_H4_TGFB1-0029_DAPI.TIF	1927	543657	0.35	theshold=30 1e+02	theshold=50 42	theshold=90 1.7	
+20180430_H4_TGFB1-0029_GFP.TIF	410	543657	0.075	theshold=30 77	theshold=50 6.1	theshold=90 0.2	
+20180430_H5_untreated-0030_DAPI.TIF	5915	543657	1.1	theshold=30 1e+02	theshold=50 24	theshold=90 2.9	
+20180430_H5_untreated-0030_GFP.TIF	492	543657	0.09	theshold=30 21	theshold=50 2.4	theshold=90 0.23	
+20180430_H6_stopper-0031_DAPI.TIF	282	543657	0.052	theshold=30 98	theshold=50 0.25	theshold=90 0.09	
+20180430_H6_stopper-0031_GFP.TIF	7	543657	0.0013	theshold=30 0.26	theshold=50 0.06	theshold=90 0.0042	
